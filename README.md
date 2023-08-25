@@ -1,6 +1,6 @@
 ## NAME: DEEPIKA S
 ## REGISTER NUMBER: 212222230028
-# Implementation of combinational logic
+## Implementation of combinational logic
 Implementation of combinational logic gates
  
 ## AIM:
