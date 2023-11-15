@@ -43,6 +43,8 @@ The NOT gate is a fundamental digital logic gate. It has a single input and a si
    - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
 
 <br>
+<br>
+<br>
 
 ## PROGRAM:
 ```
@@ -65,6 +67,11 @@ endmodule
 ## RTL DIAGRAM:
 ![rtl viewer](https://github.com/deepikasrinivasans/Experiment--02-Implementation-of-combinational-logic-/assets/119393935/086d3cf1-23a1-4853-b9c7-116ed8c5583e)
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## TRUTH TABLE:
 ![WhatsApp Image 2023-08-25 at 9 22 38 AM](https://github.com/deepikasrinivasans/Experiment--02-Implementation-of-combinational-logic-/assets/119393935/6bef0fc3-1701-4d10-bc25-16341339eacb)
