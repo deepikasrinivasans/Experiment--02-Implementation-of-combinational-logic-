@@ -82,5 +82,11 @@ endmodule
 ![WhatsApp Image 2023-08-25 at 9 22 38 AM](https://github.com/deepikasrinivasans/Experiment--02-Implementation-of-combinational-logic-/assets/119393935/6bef0fc3-1701-4d10-bc25-16341339eacb)
 ## OUTPUT WAVEFORM VERIFIED:
 ![WhatsApp Image 2023-08-25 at 9 22 37 AM](https://github.com/deepikasrinivasans/Experiment--02-Implementation-of-combinational-logic-/assets/119393935/209ba492-6b93-4c81-9aea-3ab948a6bb92)
+
+
+<br>
+<br>
+<br>
+
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
