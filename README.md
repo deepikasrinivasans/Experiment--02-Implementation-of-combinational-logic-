@@ -1,6 +1,6 @@
 ## NAME: DEEPIKA S
 ## REGISTER NUMBER: 212222230028
-## Ex01 Implementation of combinational logics
+## Ex 02 Implementation of combinational logics
 ## Date: 18.08.2023
 ## AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
