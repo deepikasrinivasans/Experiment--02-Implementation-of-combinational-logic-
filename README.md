@@ -43,6 +43,7 @@ The NOT gate is a fundamental digital logic gate. It has a single input and a si
    - Give the Input Combinations according to the Truth Table amd then simulate the Output Waveform.
 
 <br>
+
 ## PROGRAM:
 ```
 Developed by: Deepika.S
