@@ -45,6 +45,8 @@ The NOT gate is a fundamental digital logic gate. It has a single input and a si
 <br>
 <br>
 <br>
+<br>
+
 
 ## PROGRAM:
 ```
@@ -67,6 +69,9 @@ endmodule
 ## RTL DIAGRAM:
 ![rtl viewer](https://github.com/deepikasrinivasans/Experiment--02-Implementation-of-combinational-logic-/assets/119393935/086d3cf1-23a1-4853-b9c7-116ed8c5583e)
 
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
